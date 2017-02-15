@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>AirlineReservationSystem</label>
+	</settings>
+	<users>
+		<user>
+			<path>AirlineReservationSystem.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>AirlineReservationSystem.jcp</path>
+		</project>
+	</projects>
+</workspace>
